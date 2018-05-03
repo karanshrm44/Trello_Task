@@ -1,0 +1,10 @@
+.SingleLine {
+  float:left;
+}
+
+.board {
+ width:100%;
+  background: #3977BB;
+  overflow-x: auto;
+  display: flex;
+}
